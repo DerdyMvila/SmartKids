@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cvCardSubHome"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:focusable="true"
+    android:foreground="?android:selectableItemBackground"
+    app:cardCornerRadius="10.0dip"
+    app:cardElevation="5.0dip"
+    app:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:id="@+id/lloutCardSubHome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+
+        <ImageView
+            android:id="@+id/imgSubHome"
+            android:layout_width="160.0dip"
+            android:layout_height="@dimen/cell_height"
+            android:layout_gravity="center"
+            android:padding="10.0dip"
+            android:src="@drawable/a" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

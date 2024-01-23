@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SmartKids</string>
+    <string name="AD_MOB_APPLICATION_ID">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="rate">Rate</string>
+    <string name="share">Share</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="sound">Sound</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cell_height">180dp</dimen>
+    <dimen name="menu_cell_height">65dp</dimen>
+    <dimen name="menu_cell_margin_left">16dp</dimen>
+    <dimen name="header_top_padding">30dp</dimen>
+</resources>

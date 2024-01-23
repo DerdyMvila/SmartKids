@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context="com.kidslearning.kidsplay.smartkids.derdroid.preschool.activity.exam.LookChooseActivity">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <RelativeLayout
+            android:id="@+id/rltTop"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorTheme"
+            android:paddingTop="24dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="?actionBarSize">
+
+
+                <ImageView
+                    android:id="@+id/imgBackButton"
+                    android:layout_width="45.0dip"
+                    android:layout_height="45.0dip"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="5.0dip"
+                    android:onClick="onClickBack"
+                    android:src="@drawable/btn_back_150" />
+
+                <TextView
+                    android:id="@+id/txtTitleSubHome"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="Look and Choose Quiz"
+                    android:textColor="@color/colorBlue"
+                    android:textSize="20.0dip"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:id="@+id/rltMain"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/rltRecycle"
+            android:layout_below="@+id/rltTop">
+
+            <ImageView
+                android:id="@+id/iVQuestion"
+                android:layout_width="100.0dip"
+                android:layout_height="100.0dip"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp" />
+
+        </RelativeLayout>
+
+        <FrameLayout
+            android:id="@+id/flBootom"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="center_vertical"
+            android:layout_margin="1dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginBottom="1dp">
+
+            <ImageView
+                android:id="@id/imgBtnPrev"
+                android:layout_width="55.0dip"
+                android:layout_height="55.0dip"
+                android:layout_gravity="left"
+                android:layout_margin="2.0dip"
+                android:onClick="onClickPrev"
+                android:src="@drawable/btn_prev_150" />
+
+            <ImageView
+                android:id="@id/imgBtnNext"
+                android:layout_width="55.0dip"
+                android:layout_height="55.0dip"
+                android:layout_gravity="right"
+                android:layout_margin="2.0dip"
+                android:onClick="onClickNext"
+                android:src="@drawable/btn_next_150" />
+        </FrameLayout>
+
+        <RelativeLayout
+            android:id="@+id/rltRecycle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/flBootom">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rv_exam"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_margin="8.0dip" />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/llAdView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:visibility="visible" />
+
+    <LinearLayout
+        android:id="@+id/llAdViewFacebook"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="visible" />
+</LinearLayout>

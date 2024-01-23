@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cvCardSubHome"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:focusable="true"
+    android:foreground="?android:selectableItemBackground"
+    app:cardCornerRadius="10.0dip"
+    app:cardElevation="5.0dip"
+    app:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:id="@+id/lloutExamAnswer"
+        android:layout_width="fill_parent"
+        android:layout_height="100.0dip"
+        android:background="#ffcefdff"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tVExamAnswer"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_margin="5.0dip"
+            android:gravity="center"
+            android:text="Hello"
+            android:textColor="#ff005a65"
+            android:textSize="22.0dip"
+            android:textStyle="bold" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,2454 @@
+[
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_wagtail.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/wagtail.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_nurse.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/nurse.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_mirror.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/mirror.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_subway.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/subway.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_television.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/television.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/layout_viewpager_layout.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/layout/viewpager_layout.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_skateboarding.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/skateboarding.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_basketball.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/basketball.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_m_monkey.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/m_monkey.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_sphere.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/sphere.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_map.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/map.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_bread.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/bread.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_hedgehog.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/hedgehog.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_dictionary.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/dictionary.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_q_queen.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/q_queen.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_bg_main.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/bg_main.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_slipper.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/slipper.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_receptionist.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/receptionist.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/layout_card_list_home.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/layout/card_list_home.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_quince.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/quince.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_coconut.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/coconut.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_bucket.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/bucket.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_circle.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/circle.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_italy.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/italy.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_six_6.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/six_6.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_pyramid.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/pyramid.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_ice_cream.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/ice_cream.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_triangle.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/triangle.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_belgium.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/belgium.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_r_rabbit.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/r_rabbit.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_june.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/june.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_watermelon.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/watermelon.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_one_1.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/one_1.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_home_jobs.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/home_jobs.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_neck.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/neck.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_boat.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/boat.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_cambodia.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/cambodia.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_shoulder.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/shoulder.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_butter.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/butter.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_aster.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/aster.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_malaysia.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/malaysia.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_pakistan.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/pakistan.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_onion.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/onion.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_sp.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/sp.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_stomach.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/stomach.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_pigeon.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/pigeon.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-pngs-0:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_porcupine.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/porcupine.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_ribonr.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/ribonr.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_ear.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/ear.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_shoes.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/shoes.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_squirrel.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/squirrel.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_twelve_12.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/twelve_12.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_bison.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/bison.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_wallet.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/wallet.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_car.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/car.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_boot.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/boot.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_librarian.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/librarian.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_table.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/table.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_m.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/m.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_seventeen_17.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/seventeen_17.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_sparrow.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/sparrow.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/layout_activity_exam_question.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/layout/activity_exam_question.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_florist.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/florist.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_fourteen_14.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/fourteen_14.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_jeans.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/jeans.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_cycling.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/cycling.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_petunia.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/petunia.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_cylinder.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/cylinder.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_lettuce.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/lettuce.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_fencing.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/fencing.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_btn_rate.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/btn_rate.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_shorts.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/shorts.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_blackcurrant.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/blackcurrant.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_school_bag.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/school_bag.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_giraffe.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/giraffe.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_jasmine.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/jasmine.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_eye.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/eye.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_tulips.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/tulips.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_b.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/b.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_red_cabbage.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/red_cabbage.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_orchids.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/orchids.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_spinach.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/spinach.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_pizza.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/pizza.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_juice.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/juice.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_lilac.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/lilac.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_polar_bear.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/polar_bear.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_bed.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/bed.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_billiards.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/billiards.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_ellipse.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/ellipse.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_white.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/white.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/layout_card_video_learning.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/layout/card_video_learning.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_motorbike.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/motorbike.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_dustman.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/dustman.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_s_sun.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/s_sun.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_door.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/door.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_carpenter.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/carpenter.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_squash.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/squash.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_eight_8.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/eight_8.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_btn_volume_off.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/btn_volume_off.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_brown.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/brown.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_wolf.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/wolf.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_vulture.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/vulture.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_shirt.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/shirt.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_scissors.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/scissors.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_hair.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/hair.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_cauliflower.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/cauliflower.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_bookcase.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/bookcase.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_laos.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/laos.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_right_triangle.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/right_triangle.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_teacher.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/teacher.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_golf.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/golf.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_card_three.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/card_three.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_vietnam.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/vietnam.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_black_leopard.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/black_leopard.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_badminton.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/badminton.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_january.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/january.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_ic_setting.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/ic_setting.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_vt_clothes.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/vt_clothes.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_tomato.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/tomato.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_windsurfing.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/windsurfing.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_l_line.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/l_line.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_mint.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/mint.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_b_ball.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/b_ball.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_fig.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/fig.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_bear.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/bear.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_zebra.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/zebra.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_key.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/key.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_karate.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/karate.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_d.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/d.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_apple.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/apple.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_truck.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/truck.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_t_train.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/t_train.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_england.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/england.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/anim_design_bottom_sheet_slide_out.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_archery.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/archery.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_three_3.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/three_3.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_w_watch.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/w_watch.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_eggplant.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/eggplant.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/layout_activity_full_screen.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/layout/activity_full_screen.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_cougar.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/cougar.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_march.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/march.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_russia.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/russia.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_v_violin.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/v_violin.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_mouth.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/mouth.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_april.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/april.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_spain.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/spain.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_pencil.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/pencil.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_monkey.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/monkey.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_n_nest.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/n_nest.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_cleaner.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/cleaner.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_austria.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/austria.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_lock.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/lock.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_o.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/o.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_meerkat.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/meerkat.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/layout_card_item_video_list.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/layout/card_item_video_list.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_heart.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/heart.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_puffin.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/puffin.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_gardener.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/gardener.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_nose.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/nose.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_eraser.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/eraser.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_bg_view.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/bg_view.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_football.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/football.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_a_apple.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/a_apple.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_i.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/i.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_ic_exam_phonics.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/ic_exam_phonics.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_z.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/z.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_jaguar.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/jaguar.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/anim_bubble_anim.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/anim/bubble_anim.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_may.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/may.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_crow.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/crow.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_arm.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/arm.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_waxwing.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/waxwing.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_netherlands.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/netherlands.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_chess.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/chess.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/layout_card_sub_list_home.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/layout/card_sub_list_home.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_chocolate.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/chocolate.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_september.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/september.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_bar_stool.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/bar_stool.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_wombat.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/wombat.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/anim_bounce_amn.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/anim/bounce_amn.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_cake.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/cake.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_toucan.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/toucan.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_strawberry.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/strawberry.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_globe.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/globe.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_home_vegetable.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/home_vegetable.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_portugal.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/portugal.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_pilot.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/pilot.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_canary.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/canary.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_ankle.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/ankle.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_home_sports.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/home_sports.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_thirteen_13.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/thirteen_13.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_lips.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/lips.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_gloves.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/gloves.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_student.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/student.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_pen.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/pen.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_november.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/november.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_newspaper.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/newspaper.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_book.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/book.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_u.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/u.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_lychee.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/lychee.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_soldier.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/soldier.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_train.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/train.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_plane.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/plane.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_nerium_oleander.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/nerium_oleander.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_february.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/february.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_skirt.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/skirt.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_belt.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/belt.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_author.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/author.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_pyjamas.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/pyjamas.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_october.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/october.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_watch.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/watch.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_foot.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/foot.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_g_goat.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/g_goat.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_pineapple.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/pineapple.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_sandwich.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/sandwich.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_lemon.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/lemon.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_armchair.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/armchair.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_bottle.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/bottle.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_fire_truck.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/fire_truck.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_fifteen_15.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/fifteen_15.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_baker.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/baker.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_jacket.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/jacket.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_yogurt.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/yogurt.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_v.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/v.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_cucumber.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/cucumber.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_btn_volume_on.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/btn_volume_on.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_vt_animal.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/vt_animal.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_dress.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/dress.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_five_5.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/five_5.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_bike.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/bike.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_lavender.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/lavender.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_bougainvillea.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/bougainvillea.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_polygon.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/polygon.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/layout_item_notification_coll.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/layout/item_notification_coll.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_y_yak.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/y_yak.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/anim_rotation.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/anim/rotation.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_deer.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/deer.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_model.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/model.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_favorite2.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/favorite2.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_c_cat.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/c_cat.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_ic_close_rate.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/ic_close_rate.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_cockscomb.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/cockscomb.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_string_beans.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/string_beans.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_overalls.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/overalls.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/layout_card_item_related_list.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/layout/card_item_related_list.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_thailand.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/thailand.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_astronomer.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/astronomer.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_k.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/k.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_sweden.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/sweden.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_myanmar.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/myanmar.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_decagon.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/decagon.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_btn_exit.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/btn_exit.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_peacock.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/peacock.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_computer.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/computer.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_poppy.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/poppy.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_favorite.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/favorite.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_ham.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/ham.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_red_panda.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/red_panda.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_d_dog.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/d_dog.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_swimming.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/swimming.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_chimpanzee.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/chimpanzee.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/layout_activity_splash.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_x.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/x.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_gardient_top_bottom.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/gardient_top_bottom.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_phone.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/phone.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_france.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/france.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_otter.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/otter.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_sweater.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/sweater.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_koala_bear.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/koala_bear.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_plum.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/plum.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_eagle.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/eagle.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_home_color.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/home_color.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_empty.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/empty.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_chef.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/chef.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_home_month.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/home_month.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_scarf.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/scarf.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_united_states.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/united_states.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_papaya.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/papaya.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_waiter.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/waiter.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_greece.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/greece.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_star.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/star.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_rice.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/rice.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_w.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/w.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_philippine.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/philippine.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/layout_item_notification_expand.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/layout/item_notification_expand.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/layout_activity_home.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_trapezoid.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/trapezoid.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_cuba.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/cuba.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_tailor.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/tailor.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_home_shape.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/home_shape.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_bottom_borrder.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/bottom_borrder.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_chest.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/chest.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_soda.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/soda.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_home_day.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/home_day.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_vt_shape.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/vt_shape.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_sofasofa.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/sofasofa.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_dentist.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/dentist.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_butcher.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/butcher.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_vt_month.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/vt_month.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_vt_color.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/vt_color.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_eleven_11.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/eleven_11.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_home_fruits.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/home_fruits.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_canoeing.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/canoeing.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_l.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/l.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/layout_activity_exam_listen_guess.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/layout/activity_exam_listen_guess.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_lawyer.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/lawyer.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_black.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/black.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_ruler.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/ruler.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_blueberry.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/blueberry.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_chip.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/chip.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_slate.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/slate.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_farmer.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/farmer.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_seven_7.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/seven_7.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_kite.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/kite.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_table_tennis.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/table_tennis.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/layout_activity_sub.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/layout/activity_sub.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_mynah.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/mynah.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_lime.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/lime.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_ship.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/ship.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_judo.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/judo.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_leg.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/leg.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_july.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/july.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_kangaroo.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/kangaroo.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_mushroom.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/mushroom.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_tiger.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/tiger.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_soup.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/soup.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_cone.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/cone.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_a.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/a.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_glasses.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/glasses.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_asparagus.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/asparagus.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/anim_design_snackbar_out.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_thumb.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/thumb.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_lotus.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/lotus.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_equestrian.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/equestrian.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_btn_prev_150.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/btn_prev_150.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/anim_design_bottom_sheet_slide_in.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_cherry.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/cherry.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_mechanics.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/mechanics.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_n.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/n.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_home_country.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/home_country.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_blue.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/blue.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_p.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/p.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_driver.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/driver.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_august.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/august.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_hexagon.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/hexagon.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_argentina.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/argentina.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_welder.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/welder.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_bathrobe.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/bathrobe.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_btn_sound.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/btn_sound.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_splash.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/splash.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_scimitar_oryx.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/scimitar_oryx.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_cube.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/cube.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_clock.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/clock.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_diamond.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/diamond.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_ice_skating.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/ice_skating.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_south_korea.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/south_korea.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_accountant.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/accountant.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_arrow.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/arrow.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_pink.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/pink.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_card_one.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/card_one.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_lion.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/lion.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_umbrella.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/umbrella.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_rhinoceros.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/rhinoceros.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_japan.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/japan.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_radish.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/radish.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_violet.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/violet.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/layout_card_exam_phonics.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/layout/card_exam_phonics.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_biscuits.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/biscuits.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_vt_abc.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/vt_abc.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_btn_disclaimer.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/btn_disclaimer.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_blackberry.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/blackberry.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_potato.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/potato.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_y.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/y.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_hibiscus.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/hibiscus.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_brush.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/brush.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_home_vehicle.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/home_vehicle.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_firefighter.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/firefighter.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_lily.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/lily.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_kiwi.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/kiwi.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_c.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/c.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_coffee.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/coffee.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_mobile_phone.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/mobile_phone.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_parrot.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/parrot.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_gladiolus.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/gladiolus.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_rhombus.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/rhombus.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_raccoon.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/raccoon.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_quail.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/quail.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_daffodils.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/daffodils.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_germany.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/germany.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_j.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/j.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_suit.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/suit.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_morning_glory.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/morning_glory.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_pharmacist.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/pharmacist.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_chipmuck.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/chipmuck.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_pentagon.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/pentagon.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_window.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/window.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_buttercup.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/buttercup.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_btn_home_150.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/btn_home_150.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_aqua.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/aqua.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_glass.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/glass.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_fox.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/fox.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_k_kite.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/k_kite.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_running.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/running.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_eighteen_18.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/eighteen_18.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_sock.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/sock.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_cup.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/cup.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_pheasant.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/pheasant.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_tennis.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/tennis.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_octagon.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/octagon.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_engineer.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/engineer.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_ambulance.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/ambulance.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_croatia.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/croatia.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_bird_of_paradise.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/bird_of_paradise.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_plumber.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/plumber.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_crescent.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/crescent.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_vt_day.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/vt_day.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_purple_mallow.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/purple_mallow.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_passion.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/passion.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_orange.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/orange.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_o_orange.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/o_orange.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_square.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/square.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_coin.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/coin.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_duck.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/duck.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_diving.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/diving.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_okra.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/okra.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_gorilla.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/gorilla.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_home_flower.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/home_flower.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_tea.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/tea.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_board.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/board.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_twenty_20.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/twenty_20.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_home_animal.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/home_animal.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_t.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/t.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_lecturer.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/lecturer.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_vt_fruit.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/vt_fruit.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/layout_activity_privacy_policy.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/layout/activity_privacy_policy.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_panda.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/panda.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/layout_activity_setting.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/anim_design_snackbar_in.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_owl.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/owl.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_picture.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/picture.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_water.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/water.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_fingers.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/fingers.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_avocado.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/avocado.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_rose.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/rose.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_home_food.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/home_food.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_baseball.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/baseball.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_optician.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/optician.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_cuboid.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/cuboid.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_home_school.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/home_school.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_notification_icon.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/notification_icon.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_traffic_warden.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/traffic_warden.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_raspberry.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/raspberry.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_indonesia.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/indonesia.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_jackal.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/jackal.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_mango.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/mango.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_g.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/g.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_apricot.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/apricot.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_dove.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/dove.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_nightingale.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/nightingale.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_sunflower.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/sunflower.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_veterinarian.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/veterinarian.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_electrician.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/electrician.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/layout_activity_video_learning.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/layout/activity_video_learning.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_opossum.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/opossum.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_police_car.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/police_car.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_cancel.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/cancel.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_broccoli.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/broccoli.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_scientist.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/scientist.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_brazil.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/brazil.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_h.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/h.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_home_alphabet.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/home_alphabet.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_hockey.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/hockey.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_dahlia.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/dahlia.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_home_house.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/home_house.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_hyena.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/hyena.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_garlic.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/garlic.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_canada.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/canada.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_home_number.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/home_number.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_bus.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/bus.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_hippopotamus.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/hippopotamus.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_home_birds.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/home_birds.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/anim_scale_up.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/anim/scale_up.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_z_zebra.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/z_zebra.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_photographer.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/photographer.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_home_prepositions.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/home_prepositions.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_skiing.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/skiing.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_sixteen_16.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/sixteen_16.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_e.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/e.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/layout_activity_video_play.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/layout/activity_video_play.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_home_body_parts.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/home_body_parts.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_knee.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/knee.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_btn_back_150.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/btn_back_150.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_swallow.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/swallow.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_knife.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/knife.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_cheetah.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/cheetah.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_peahen.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/peahen.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_rectangle.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/rectangle.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_container_truck.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/container_truck.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_vt_vehicle.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/vt_vehicle.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_j_joker.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/j_joker.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_green.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/green.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_u_umbrella.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/u_umbrella.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_bricklayer.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/bricklayer.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_saudi_arabia.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/saudi_arabia.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_lapwing.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/lapwing.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_mongoose.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/mongoose.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/layout_activity_list_video.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/layout/activity_list_video.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_robin.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/robin.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_e_elephant.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/e_elephant.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_parallelogram.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/parallelogram.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_brussels_sprouts.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/brussels_sprouts.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_grape.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/grape.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_btn_back.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/btn_back.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_hamburger.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/hamburger.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_card_four.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/card_four.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_btn_home.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/btn_home.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_thigh.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/thigh.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_beer.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/beer.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_s.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/s.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_yellow.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/yellow.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_bowling.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/bowling.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/layout_card_exam_answer.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/layout/card_exam_answer.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_nine_9.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/nine_9.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_helicopter.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/helicopter.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_noodles.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/noodles.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_surfing.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/surfing.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_volleyball.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/volleyball.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_h_horse.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/h_horse.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_r.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/r.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_vt_vegetable.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/vt_vegetable.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_carrot.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/carrot.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/anim_scale_down.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/anim/scale_down.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_two_2.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/two_2.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_hat.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/hat.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_i_icecream.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/i_icecream.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_home_geometry.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/home_geometry.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_peony.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/peony.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_elbow.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/elbow.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_filled.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/filled.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_denmark.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/denmark.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_card_two.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/card_two.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_periwinkle.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/periwinkle.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_btn_next_150.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/btn_next_150.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_elephant.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/elephant.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_woodpecker.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/woodpecker.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_peaspeas.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/peaspeas.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_kingfisher.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/kingfisher.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/xml_data_extraction_rules.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_four_4.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/four_4.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_judge.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/judge.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_cheese.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/cheese.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_peach.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/peach.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_ribonl.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/ribonl.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_x_xylophone.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/x_xylophone.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_q.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/q.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_dianthus.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/dianthus.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_december.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/december.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_home_clothes.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/home_clothes.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_nineteen_19.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/nineteen_19.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_indian.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/indian.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_red.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/red.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_canna.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/canna.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/layout_card_list_start.xml.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/layout/card_list_start.xml"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_laptop.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/laptop.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_vt_number.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/vt_number.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_architect.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/architect.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_daisy.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/daisy.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_singapore.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/singapore.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_arum_lily.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/arum_lily.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_calendula.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/calendula.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_painter.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/painter.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_notebook.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/notebook.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_doctor.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/doctor.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_hornbill.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/hornbill.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_zero_0.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/zero_0.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_milk.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/milk.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_desk.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/desk.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_chair.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/chair.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_pear.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/pear.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_turnip.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/turnip.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_journalist.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/journalist.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_nectarine.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/nectarine.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_toe.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/toe.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_hairdresser.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/hairdresser.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_f.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/f.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_ten_10.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/ten_10.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_compass.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/compass.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_mexico.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/mexico.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_oval.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/oval.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_hoopoe.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/hoopoe.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_f_fish.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/f_fish.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_p_parrot.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/p_parrot.png"
+    },
+    {
+        "merged": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-merged_res-5:/drawable_lifeguard.png.flat",
+        "source": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-main-7:/drawable/lifeguard.png"
+    }
+]

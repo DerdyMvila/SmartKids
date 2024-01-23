@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg_view"
+    android:orientation="vertical"
+    tools:context="com.kidslearning.kidsplay.smartkids.derdroid.preschool.activity.FullScreenActivity">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/rltTop"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/header_top_padding">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="?actionBarSize">
+
+                <ImageView
+                    android:id="@+id/imgBackButton"
+                    android:layout_width="45.0dip"
+                    android:layout_height="45.0dip"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="5.0dip"
+                    android:onClick="onClickBack"
+                    android:src="@drawable/btn_back_150" />
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+        <com.kidslearning.kidsplay.smartkids.derdroid.preschool.customclasses.NonSwipeAbleViewPager
+            android:id="@+id/viewPager"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_toLeftOf="@+id/imgBtnNext"
+            android:layout_toRightOf="@+id/imgBtnPrev" />
+
+
+        <TextView
+            android:id="@+id/tvItemName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rltTop"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/colorBlack"
+            android:textSize="26dp" />
+
+
+        <ImageView
+            android:id="@+id/imgBtnPrev"
+            android:layout_width="55.0dip"
+            android:layout_height="55.0dip"
+            android:layout_centerVertical="true"
+            android:layout_gravity="left"
+            android:layout_margin="2.0dip"
+            android:onClick="onClickPrev"
+            android:src="@drawable/btn_prev_150" />
+
+        <ImageView
+            android:id="@+id/imgBtnNext"
+            android:layout_width="55.0dip"
+            android:layout_height="55.0dip"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="right"
+            android:layout_margin="2.0dip"
+            android:onClick="onClickNext"
+            android:src="@drawable/btn_next_150" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/llAdView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:visibility="visible" />
+
+    <LinearLayout
+        android:id="@+id/llAdViewFacebook"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="visible" />
+
+</LinearLayout>

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.kidslearning.kidsplay.smartkids.derdroid.preschool.app-mergeReleaseResources-3:/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ar_de\\.gradle\\caches\\transforms-3\\b4b892dba6e52ae524553f0293fb3ec3\\transformed\\appcompat-1.6.1\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,397",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,392,584"
+                    }
+                }
+            ]
+        }
+    ]
+}
